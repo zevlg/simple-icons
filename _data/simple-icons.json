@@ -7171,6 +7171,11 @@
             "source": "https://www.tele5.de"
         },
         {
+            "title": "Telega",
+            "hex": "7E55B3",
+            "source": "https://github.com/zevlg/telega.el"
+        },
+        {
             "title": "Telegram",
             "hex": "26A5E4",
             "source": "https://telegram.org"
